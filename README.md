@@ -28,8 +28,7 @@ Mentor-Neela Santhosh Kumar
 
 *Objective-
 
-The objective of the program is to create a simple calculator application in Java that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division). 
-The program will Prompt the user to input two numbers.Ask the user to choose an arithmetic operation.Perform the selected operation on the input numbers.Display the result of the calculation to the user.
+The objective of the program is to create a simple calculator application in Java that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division). The program will Prompt the user to input two numbers.Ask the user to choose an arithmetic operation.Perform the selected operation on the input numbers.Display the result of the calculation to the user.
 
 *Key Activities-
 
