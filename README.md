@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 Name- Vaishnavi Shejwal
 
 Company- CODTECH IT SOLUTIONS
@@ -17,22 +10,21 @@ Duration- December 30th, 2024 to January 30th, 2025
 
 Mentor-Neela Santhosh Kumar
 
-
-
-
-
-
-![Screenshot 2024-12-24 164527](https://github.com/user-attachments/assets/c5062b52-e52f-4d99-884b-2bfab9df210d)
-
-
-
-
-
-
-
 *Overview of the Project
 
 *Project- Simple Calculator
+
+*Output-
+
+
+
+
+
+
+![Screenshot 2024-12-24 164527](https://github.com/user-attachments/assets/4dc0dc5c-b083-4745-8737-42ddecb18947)
+
+
+
 
 *Objective
 The objective of the program is to create a simple calculator application in Java that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division). The program will:Prompt the user to input two numbers.Ask the user to choose an arithmetic operationPerform the selected operation on the input numbers.Display the result of the calculation to the user.
